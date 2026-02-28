@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Random;
 
 public class Modulos {
-
+    
     static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
@@ -295,4 +295,5 @@ public class Modulos {
             System.out.println(n + " x " + i + " = " + (n * i));
         }
     }
+
 }
